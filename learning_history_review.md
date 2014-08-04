@@ -16,4 +16,4 @@ We could try to learn the more difficult concepts in the morning instead of the 
 I fear that I might not get enough exercise.
 
 **Is this fear valid? If so, does it serve you as someone learning to program?**
-It is a valid fear and it is something I will work on to try to do at least some exercise
+It is a valid fear and it is something I will work on to try to do at least some exercise, I believe some exercise is good for retaining knowledge.
