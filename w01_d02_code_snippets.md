@@ -10,5 +10,5 @@
 |7|`git push origin master`|to push files in the staged area to the master branch of my GitHub repository|
 |8|`git pull upstream master`|to pull means to get the files in the repository I am copying from, and get it into my own local repository, upstream is a remote repository that we do not have write access to.|
 |9|`git clone`|copies an existing Git repository, cloning automatically creates a remote connection called origin pointing back to the original repository|
-|10|git remote add <name> <url>|creates a new connection to a remote repository, after adding a remote, we will be able to use <name> as a convenient short cut for <url> in other Git commands|
+|10|`git remote add <name> <url>`|creates a new connection to a remote repository, after adding a remote, we will be able to use <name> as a convenient short cut for <url> in other Git commands|
 
