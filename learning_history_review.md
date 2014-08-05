@@ -18,7 +18,7 @@ We could try to learn the more difficult concepts in the morning instead of the 
 
 **What is your greatest fear as a WDI student?**
 
-I fear that I might not get enough exercise.
+I fear that I might not get enough exercise, and as a result could get a little stressed out. 
 
 **Is this fear valid? If so, does it serve you as someone learning to program?**
 
